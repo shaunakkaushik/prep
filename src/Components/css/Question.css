@@ -34,15 +34,6 @@
     color: #f2f2f2;
 }
 
-.timer-holder{
-    text-align: center;
-    padding-top: 5%;
-    padding-bottom: 5%;
-    color: white;
-    font-size: x-large;
-    border-bottom: white solid;
-}
-
 .not{
     width: 12%;
     font-size: 180%;
@@ -73,6 +64,14 @@
     background-color: #592693;
     font-family: 'Edu NSW ACT Foundation', cursive;
     color: white;
+}
+.timer-holder{
+    text-align: center; 
+    font-size: x-large;
+    color: white;
+    margin-top: 5%; 
+    padding-bottom: 5%;
+    border-bottom: white solid;
 }
 
 .button-span{
@@ -114,7 +113,7 @@
 
 .submit-button{
     position: absolute;
-    margin-top: 80vh;
+    margin-top: 60vh;
     margin-left: -8.8vw;
     padding-left: 2%;
     padding-right: 2%;
@@ -123,5 +122,5 @@
     font-size: 150%;
     background-color: #1b7ced;
     color: white;
-    border-radius: 7%;
+    border-radius: 9%;
 }
