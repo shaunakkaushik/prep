@@ -1,0 +1,79 @@
+[
+    {
+        "id":1,
+        "question":"Which is the largest fish in the ocean ?",
+        "options":[
+            "Blue Whale",
+            "Great White Shark",
+            "Bluefin Tuna",
+            "Megaladon"
+        ],
+        "correct":1
+    },
+    {
+        "id":2,
+        "question":"Which is the largest animal on land ?",
+        "options":[
+            "Giraffe",
+            "Elephant",
+            "T-Rex",
+            "Your Mom"
+        ],
+        "correct":2
+    },
+    {
+        "id":3,
+        "question":"Which is the brighest planet ?",
+        "options":[
+            "Earth",
+            "Sun",
+            "Venus",
+            "Jupiter"
+        ],
+        "correct":3
+    },
+    {
+        "id":4,
+        "question":"Who is best looking actor ?",
+        "options":[
+            "Hrithik Roshan",
+            "Vicky Kaushal",
+            "Arjun Kapoor",
+            "Aditya Roy Kapoor"
+        ],
+        "correct":1
+    },
+    {
+        "id":5,
+        "question":"Who is the best sportsperson ?",
+        "options":[
+            "Virat Kohli",
+            "Mahendra Singh Dhoni",
+            "Cristiano Ronaldo",
+            "Carlos Sainz"
+        ],
+        "correct":3
+    },
+    {
+        "id":6,
+        "question":"Where would you want to go ?",
+        "options":[
+            "Paris",
+            "NYC",
+            "Santorini",
+            "Jaipur"
+        ],
+        "correct":3
+    },
+    {
+        "id":7,
+        "question":"Which is most cozy place ?",
+        "options":[
+            "Forests",
+            "Snow Mountains",
+            "Home",
+            "Riverside"
+        ],
+        "correct":2
+    }
+]

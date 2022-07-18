@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+
+.all-result-holder{
+    width: 100vw;
+    height: 100vh;
+    background-color: black;
+}
+
+.result-holder{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    font-family: 'Oswald', sans-serif;
+    width: 70vw;
+}
+
+.marks{
+    font-size: xx-large;
+    color: #66fcf1;
+    text-align: center;
+    /* transform: translate(-%,0); */
+}
+
+.correct-answers{
+    color: white;
+    float: left;
+    padding: 4%;
+    font-size: x-large;
+}
+
+.correct{
+    color: #32cd32;
+}
+
+.incorrect{
+    color: #ff2e2e;
+}

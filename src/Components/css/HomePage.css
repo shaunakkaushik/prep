@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&display=swap');
+
+.all-holder{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    font-family: 'Oswald', sans-serif;
+    font-size: x-large;
+}
+
+#exam-nav{
+    margin-left: 50%;
+    transform: translate(-50%,0%);
+    background-color: #65a765;
+    border-radius: 4px;
+    padding: 4%;
+    font-size: x-large;
+}
+
+.Heading{
+    text-align: center;
+}
+
+.timer{
+    text-align: center;
+    padding-top: 4%;
+    padding-bottom: 4%;
+}
