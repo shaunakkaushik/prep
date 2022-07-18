@@ -8,11 +8,13 @@
 
 .result-holder{
     position: absolute;
-    top: 50%;
     left: 50%;
-    transform: translate(-50%,-50%);
+    transform: translate(-50%,0);
+    margin-top: 10vh;
     font-family: 'Oswald', sans-serif;
-    width: 70vw;
+    width: 90vw;
+    height: 90vh;
+    overflow-y: scroll;
 }
 
 .marks{
@@ -25,7 +27,7 @@
 .correct-answers{
     color: white;
     float: left;
-    padding: 4%;
+    padding: 2%;
     font-size: x-large;
 }
 
